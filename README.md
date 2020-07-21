@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ReactJS and building some websites to continue improving my css code.
+- 🌱 I’m currently learning ReactJS and building websites to continue improving my css and JavaScript code.
 <!--
 **aldhairescobar/aldhairescobar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
