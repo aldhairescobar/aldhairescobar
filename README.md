@@ -1,6 +1,6 @@
 ## Hi there, I'm Aldhair 👽
 
-### 👨‍💻 About me
+### 👨‍💻 About Me
 Self-taught javascript developer focused on learning new technologies and building web applications.
 
 ### 💻Now
@@ -8,7 +8,7 @@ Self-taught javascript developer focused on learning new technologies and buildi
 - 🔭 I'm currently working on **Frontendmentor** challenges and following the javascript certification in **FreeCodeCamp**.
 - 🔨 I recently finished my first FullStack project, It's a simple [Todo-List](https://evening-scrubland-30594.herokuapp.com/) with a database (MongoDB) and deployed to heroku.
 
-### 👻How to reach me
+### 👻How To Reach Me
 - [Twitter](https://twitter.com/aldhairescobar_)
 - [Portfolio](https://aldhairescobar.netlify.app/)
 - [Linkedin](https://www.linkedin.com/in/aldhair-escobar-7820171a6/)
