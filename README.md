@@ -4,9 +4,9 @@
 Self-taught javascript developer focused on learning new technologies and building web applications.
 
 ### 💻Now
-- 🌱 Currently learning *Reactjs*, *Nodejs* and building websites to improve my *CSS* and *JavaScript* code.
+- 🌱 Currently learning *ReactjS*, *NodejS* and building websites to improve my *CSS* and *JavaScript* code.
 - 🔭 I'm currently working on **Frontendmentor** challenges and following the javascript certification in **FreeCodeCamp**.
-- 🔨 I recently finished my first FullStack project, It's a simple [Todo-List](https://evening-scrubland-30594.herokuapp.com/) with a database (MongoDB) and deployed to heroku.
+- 🔨 I recently finished my first **FullStack project**, It's a simple [Todo-List](https://evening-scrubland-30594.herokuapp.com/) with a database (MongoDB) and deployed to heroku.
 
 ### 👻How To Reach Me
 - [Twitter](https://twitter.com/aldhairescobar_)
