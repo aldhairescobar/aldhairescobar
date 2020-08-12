@@ -8,6 +8,18 @@ Self-taught javascript developer focused on learning new technologies and buildi
 - 🔭 I'm currently working on **Frontendmentor** challenges and following the javascript certification in **FreeCodeCamp**.
 - 🔨 I recently finished my first **FullStack project**, It's a simple [Todo-List](https://evening-scrubland-30594.herokuapp.com/) with a database (MongoDB) and deployed to heroku.
 
+### ✨Projects
+
+| JavaScript  | FullStack | ReactJs | Websites |
+| ------------- | ------------- | ------------- | ------------- |
+| Dice Game  | To-do List  | Meme Generator  |  Portfolio  |
+| Beat Box  | -  | -  |  Talkative  |
+| Drum Kit  | -  | -  | Huddle Landing Page  |
+| Text Editor  | -  | -  | Documentation Page |
+| Weather App (API)  | -  | -  | Tribute Page |
+| Simon Game  | -  | -  | -  |
+
+
 ### 👻How To Reach Me
 - [Twitter](https://twitter.com/aldhairescobar_)
 - [Portfolio](https://aldhairescobar.netlify.app/)
