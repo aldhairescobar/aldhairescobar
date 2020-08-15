@@ -14,7 +14,7 @@ Self-taught javascript developer focused on learning new technologies and buildi
 | ------------- | ------------- | ------------- | ------------- |
 | Dice Game  | To-do List  | Meme Generator  |  Portfolio  |
 | Beat Box  | -  | -  |  Talkative  |
-| Drum Kit  | -  | -  | Huddle Landing Page  |
+| Drum Kit  | -  | -  | [Huddle Landing Page](https://github.com/aldhairescobar/frontendmentor-2)  |
 | Text Editor  | -  | -  | Documentation Page |
 | Weather App (API)  | -  | -  | Tribute Page |
 | Simon Game  | -  | -  | -  |
