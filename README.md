@@ -13,7 +13,7 @@ Self-taught javascript developer focused on learning new technologies and buildi
 | JavaScript  | FullStack | ReactJs | Websites |
 | ------------- | ------------- | ------------- | ------------- |
 | Dice Game  | To-do List  | Meme Generator  |  Portfolio  |
-| Beat Box  | -  | -  |  Talkative  |
+| Beat Box  | -  | -  |  [Talkative](https://talkative.netlify.app/)  |
 | Drum Kit  | -  | -  | [Huddle Landing Page](https://github.com/aldhairescobar/frontendmentor-2)  |
 | Text Editor  | -  | -  | Documentation Page |
 | Weather App (API)  | -  | -  | Tribute Page |
