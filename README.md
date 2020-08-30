@@ -16,7 +16,7 @@ Self-taught javascript developer focused on learning new technologies and buildi
 | [Beat Box](https://github.com/aldhairescobar/beatBoxJS)  | -  | -  |  [Talkative](https://talkative.netlify.app/)  |
 | Drum Kit  | -  | -  | [Huddle Landing Page](https://github.com/aldhairescobar/frontendmentor-2)  |
 | [Text Editor](https://github.com/aldhairescobar/TextEditorJS)  | -  | -  | Documentation Page |
-| Weather App (API)  | -  | -  | Tribute Page |
+| [Weather App (API)](https://github.com/aldhairescobar/WeatherApp)  | -  | -  | Tribute Page |
 | [Simon Game](https://github.com/aldhairescobar/simonGame)  | -  | -  | -  |
 
 
