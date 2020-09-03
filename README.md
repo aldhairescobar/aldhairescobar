@@ -12,7 +12,7 @@ Self-taught javascript developer focused on learning new technologies and buildi
 
 | JavaScript  | FullStack | ReactJs | Websites |
 | ------------- | ------------- | ------------- | ------------- |
-| [Dice Game](https://github.com/aldhairescobar/dicegamejs)  | To-do List  | Meme Generator  |  [Portfolio](https://github.com/aldhairescobar/personalPortfolio)  |
+| [Dice Game](https://github.com/aldhairescobar/dicegamejs)  | [To-do List](https://github.com/aldhairescobar/to-do-list-ejs)  | Meme Generator  |  [Portfolio](https://github.com/aldhairescobar/personalPortfolio)  |
 | [Beat Box](https://github.com/aldhairescobar/beatBoxJS)  | -  | -  |  [Talkative](https://talkative.netlify.app/)  |
 | Drum Kit  | -  | -  | [Huddle Landing Page](https://github.com/aldhairescobar/frontendmentor-2)  |
 | [Text Editor](https://github.com/aldhairescobar/TextEditorJS)  | -  | -  | Documentation Page |
