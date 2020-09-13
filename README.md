@@ -11,7 +11,7 @@ Self-taught javascript developer focused on learning new technologies and buildi
 ### ✨Projects
 
 | JavaScript  | FullStack | ReactJs | Websites |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | -------------- |
 | [Dice Game](https://github.com/aldhairescobar/dicegamejs)  | [To-do List](https://github.com/aldhairescobar/to-do-list-ejs)  | [Keepit (Google Keep Clone)](https://github.com/aldhairescobar/Keepit)  |  [Portfolio](https://github.com/aldhairescobar/personalPortfolio)  |
 | [Beat Box](https://github.com/aldhairescobar/beatBoxJS)  | -  | -  |  [Fylo Landing Page](https://github.com/aldhairescobar/frontendmentor-3)  |
 | [Drum Kit](https://github.com/aldhairescobar/DrumKitJS)  | -  | -  | [Huddle Landing Page](https://github.com/aldhairescobar/frontendmentor-2)  |
