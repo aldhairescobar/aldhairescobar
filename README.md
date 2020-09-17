@@ -10,14 +10,14 @@ Self-taught javascript developer focused on learning new technologies and buildi
 
 ### ✨Projects
 
-| JavaScript  | FullStack | ReactJs | Websites |
+| Websites | JavaScript Challenges | ReactJs | FullStack |
 | ------------- | ------------- | ------------- | -------------- |
-| [Dice Game](https://github.com/aldhairescobar/dicegamejs)  | [To-do List](https://github.com/aldhairescobar/to-do-list-ejs)  | [Keepit (Google Keep Clone)](https://github.com/aldhairescobar/Keepit)  |  [Portfolio](https://github.com/aldhairescobar/personalPortfolio)  |
-| [Beat Box](https://github.com/aldhairescobar/beatBoxJS)  | -  | -  |  [Fylo Landing Page](https://github.com/aldhairescobar/frontendmentor-3)  |
-| [Drum Kit](https://github.com/aldhairescobar/DrumKitJS)  | -  | [Movie-Search App](https://github.com/aldhairescobar/Movie-Search)  | [Huddle Landing Page](https://github.com/aldhairescobar/frontendmentor-2)  |
-| [Text Editor](https://github.com/aldhairescobar/TextEditorJS)  | -  | -  | [Talkative](https://talkative.netlify.app/) |
-| [Weather App (API)](https://github.com/aldhairescobar/WeatherApp)  | -  | -  | Tribute Page |
-| [Simon Game](https://github.com/aldhairescobar/simonGame)  | -  | -  | -  |
+| [Portfolio](https://github.com/aldhairescobar/personalPortfolio)| [Dice Game](https://github.com/aldhairescobar/dicegamejs) | [Keepit (Google Keep Clone)](https://github.com/aldhairescobar/Keepit)  |  [To-do List](https://github.com/aldhairescobar/to-do-list-ejs)  |
+| [Fylo Landing Page](https://github.com/aldhairescobar/frontendmentor-3) | [Beat Box](https://github.com/aldhairescobar/beatBoxJS) | To-do List  |  Daily Journal (Blog App)  |
+| [Huddle Landing Page](https://github.com/aldhairescobar/frontendmentor-2) | [Drum Kit](https://github.com/aldhairescobar/DrumKitJS)  | [Movie-Search App](https://github.com/aldhairescobar/Movie-Search)  | -  |
+| [Talkative](https://talkative.netlify.app/) | [Text Editor](https://github.com/aldhairescobar/TextEditorJS)  | -  | - |
+| Tribute Page | [Weather App (API)](https://github.com/aldhairescobar/WeatherApp)  | -  | - |
+| - | [Simon Game](https://github.com/aldhairescobar/simonGame)  | -  | -  |
 
 
 ### 👻How To Reach Me
