@@ -13,7 +13,7 @@ Self-taught javascript developer focused on learning new technologies and buildi
 | Websites | JavaScript Challenges | ReactJs | FullStack |
 | ------------- | ------------- | ------------- | -------------- |
 | [Portfolio](https://github.com/aldhairescobar/personalPortfolio)| [Dice Game](https://github.com/aldhairescobar/dicegamejs) | [Keepit (Google Keep Clone)](https://github.com/aldhairescobar/Keepit)  |  [To-do List](https://github.com/aldhairescobar/to-do-list-ejs)  |
-| [Fylo Landing Page](https://github.com/aldhairescobar/frontendmentor-3) | [Beat Box](https://github.com/aldhairescobar/beatBoxJS) | To-do List  |  Daily Journal (Blog App)  |
+| [Fylo Landing Page](https://github.com/aldhairescobar/frontendmentor-3) | [Beat Box](https://github.com/aldhairescobar/beatBoxJS) | [To-do List](https://github.com/aldhairescobar/To-do-ReactJs-)  |  Daily Journal (Blog App)  |
 | [Huddle Landing Page](https://github.com/aldhairescobar/frontendmentor-2) | [Drum Kit](https://github.com/aldhairescobar/DrumKitJS)  | [Movie-Search App](https://github.com/aldhairescobar/Movie-Search)  | -  |
 | [Talkative](https://talkative.netlify.app/) | [Text Editor](https://github.com/aldhairescobar/TextEditorJS)  | -  | - |
 | Tribute Page | [Weather App (API)](https://github.com/aldhairescobar/WeatherApp)  | -  | - |
