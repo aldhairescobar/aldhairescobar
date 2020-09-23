@@ -16,7 +16,7 @@ Self-taught javascript developer focused on learning new technologies and buildi
 | [Fylo Landing Page](https://github.com/aldhairescobar/frontendmentor-3) | [Beat Box](https://github.com/aldhairescobar/beatBoxJS) | [To-do List](https://github.com/aldhairescobar/To-do-ReactJs-)  |  Daily Journal (Blog App)  |
 | [Huddle Landing Page](https://github.com/aldhairescobar/frontendmentor-2) | [Drum Kit](https://github.com/aldhairescobar/DrumKitJS)  | [Movie-Search App](https://github.com/aldhairescobar/Movie-Search)  | -  |
 | [Talkative](https://talkative.netlify.app/) | [Text Editor](https://github.com/aldhairescobar/TextEditorJS)  | Speed Typing Game | - |
-| Tribute Page | [Weather App (API)](https://github.com/aldhairescobar/WeatherApp)  | -  | - |
+| Tribute Page | [Weather App (API)](https://github.com/aldhairescobar/WeatherApp)  | Capstone Project  | - |
 | - | [Simon Game](https://github.com/aldhairescobar/simonGame)  | -  | -  |
 
 
