@@ -16,7 +16,7 @@ Self-taught javascript developer focused on learning new technologies and buildi
 | [Fylo Landing Page](https://github.com/aldhairescobar/frontendmentor-3) | [Beat Box](https://github.com/aldhairescobar/beatBoxJS) | [Keepit (Google Keep Clone)](https://github.com/aldhairescobar/Keepit) |  [Daily Journal (Blog App)](https://github.com/aldhairescobar/dailyJournal)  |
 | [Huddle Landing Page](https://github.com/aldhairescobar/frontendmentor-2) | [Drum Kit](https://github.com/aldhairescobar/DrumKitJS)  | [To-do List](https://github.com/aldhairescobar/To-do-ReactJs-) | -  |
 | [Talkative](https://github.com/aldhairescobar/talkativeSiteUpgrade) | [Text Editor](https://github.com/aldhairescobar/TextEditorJS)  | [Speed Typing Game](https://github.com/aldhairescobar/speed-typing-game) | - |
-| Tribute Page | [Weather App (API)](https://github.com/aldhairescobar/WeatherApp)  | [Movie-Search App](https://github.com/aldhairescobar/Movie-Search) | - |
+| [Tribute Page](https://github.com/aldhairescobar/TributePageProject) | [Weather App (API)](https://github.com/aldhairescobar/WeatherApp)  | [Movie-Search App](https://github.com/aldhairescobar/Movie-Search) | - |
 | - | [Simon Game](https://github.com/aldhairescobar/simonGame)  | -  | -  |
 
 
