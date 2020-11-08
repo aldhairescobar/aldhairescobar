@@ -25,6 +25,9 @@ Self-taught Frontend developer focused on learning new technologies and building
 - [Portfolio](https://aldhairescobar.netlify.app/)
 - [Linkedin](https://www.linkedin.com/in/aldhair-escobar-7820171a6/)
 
+### 💬Certificates
+- [Certificates](https://github.com/aldhairescobar/Certificates)
+
 <!--
 **aldhairescobar/aldhairescobar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
