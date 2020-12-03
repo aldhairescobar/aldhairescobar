@@ -6,6 +6,7 @@ Self-taught Frontend developer focused on learning new technologies and building
 ### 💻Now
 - 🌱 Currently building projects with ReactJS and taking the "fullstackopen" course by The University of Helsinki.
 - 🔭 Walking through the javascript certification in **FreeCodeCamp** and finished the "Frontend Developer Career Path" at **Scrimba**.
+- Doing a 24 days coding challenge with Scrimba 
 
 
 ### ✨Projects
