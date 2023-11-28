@@ -1,13 +1,7 @@
 ## Hi there, I'm Aldhair 👽
 
 ### 👨‍💻 About Me
-Self-taught Frontend developer focused on learning new technologies and building web applications.
-
-### 💻Now
-- 🌱 Currently building projects with ReactJS and taking the "fullstackopen" course by The University of Helsinki.
-- 🔭 Walking through the javascript certification in **FreeCodeCamp** and finished the "Frontend Developer Career Path" at **Scrimba**.
-- Doing a 24 days coding challenge with Scrimba 
-
+Frontend & Email developer focused on learning new technologies and building web applications.
 
 ### ✨Projects
 
@@ -30,6 +24,14 @@ Self-taught Frontend developer focused on learning new technologies and building
 - [Certificates](https://github.com/aldhairescobar/Certificates)
 
 <!--
+
+
+### 💻Now
+- 🌱 Currently building projects with ReactJS and taking the "fullstackopen" course by The University of Helsinki.
+- 🔭 Walking through the javascript certification in **FreeCodeCamp** and finished the "Frontend Developer Career Path" at **Scrimba**.
+- Doing a 24 days coding challenge with Scrimba 
+
+
 **aldhairescobar/aldhairescobar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
