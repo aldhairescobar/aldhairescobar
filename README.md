@@ -5,14 +5,14 @@ Frontend & Email developer focused on learning new technologies and building web
 
 ### ✨Projects
 
-| Websites | JavaScript Challenges | ReactJs | FullStack |
-| ------------- | ------------- | ------------- | -------------- |
-| [MyPortfolio](https://github.com/aldhairescobar/my-portfolio) | [Dice Game](https://github.com/aldhairescobar/dicegamejs) | [Pictobook](https://github.com/aldhairescobar/Pictobook) |  [To-do List](https://github.com/aldhairescobar/to-do-list-ejs)  |
-| - | [Beat Box](https://github.com/aldhairescobar/beatBoxJS) | [Keepit (Google Keep Clone)](https://github.com/aldhairescobar/Keepit) |  [Daily Journal (Blog App)](https://github.com/aldhairescobar/dailyJournal)  |
-| - | [Drum Kit](https://github.com/aldhairescobar/DrumKitJS)  | [To-do List](https://github.com/aldhairescobar/To-do-ReactJs-) | -  |
-| - | [Text Editor](https://github.com/aldhairescobar/TextEditorJS)  | [Speed Typing Game](https://github.com/aldhairescobar/speed-typing-game) | - |
-| [Talkative](https://github.com/aldhairescobar/talkativeSiteUpgrade) | [Weather App (API)](https://github.com/aldhairescobar/WeatherApp)  | [Movie-Search App](https://github.com/aldhairescobar/Movie-Search) | - |
-| - | [Simon Game](https://github.com/aldhairescobar/simonGame)  | -  | -  |
+| ReactJs | FullStack |
+| ------------- | -------------- |
+| [Pictobook](https://github.com/aldhairescobar/Pictobook) |  [To-do List](https://github.com/aldhairescobar/to-do-list-ejs)  |
+| [Keepit (Google Keep Clone)](https://github.com/aldhairescobar/Keepit) |  [Daily Journal (Blog App)](https://github.com/aldhairescobar/dailyJournal)  |
+| [To-do List](https://github.com/aldhairescobar/To-do-ReactJs-) | -  |
+| [Speed Typing Game](https://github.com/aldhairescobar/speed-typing-game) | - |
+| [Movie-Search App](https://github.com/aldhairescobar/Movie-Search) | - |
+| - | - |
 
 
 ### 👻How To Reach Me
